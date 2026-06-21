@@ -13,5 +13,13 @@
         <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
         <enclosure url="https://github.com/humanlabs-kr/humanlabs-studio-releases/releases/download/v0.3.5-4/HumanlabsStudio.dmg" length="26006132" type="application/octet-stream" sparkle:edSignature="N12hVr63h30FtnEoW6vwPz3U7QNwkpBreu+YO35aEXEhI1qUb1nLJCDCMkG2XZ4GcPYbXQThl6LQ9E1B7InKAw=="/>
     </item>
+        <item>
+        <title>Version 0.3.6</title>
+        <pubDate>Sun, 21 Jun 2026 04:07:39 +0000</pubDate>
+        <sparkle:version>5</sparkle:version>
+        <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        <enclosure url="https://github.com/humanlabs-kr/humanlabs-studio-releases/releases/download/v0.3.6-5/HumanlabsStudio.dmg" length="26006273" type="application/octet-stream" sparkle:edSignature="Z1VpYK82mKltoN02ZRW9nfwyxUQyQ+B30Snn+z8CjYx68ZzyvEehYvO347DFRzXxirw/5LtTY1GtWqXzeWPHCQ=="/>
+    </item>
     </channel>
 </rss>
