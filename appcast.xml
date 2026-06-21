@@ -5,5 +5,13 @@
         <link>https://raw.githubusercontent.com/humanlabs-kr/humanlabs-studio-releases/main/appcast.xml</link>
         <description>Updates for Humanlabs Studio</description>
         <language>en</language>
+        <item>
+        <title>Version 0.3.5</title>
+        <pubDate>Sun, 21 Jun 2026 03:49:10 +0000</pubDate>
+        <sparkle:version>4</sparkle:version>
+        <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+        <enclosure url="https://github.com/humanlabs-kr/humanlabs-studio-releases/releases/download/v0.3.5-4/HumanlabsStudio.dmg" length="26006132" type="application/octet-stream" sparkle:edSignature="N12hVr63h30FtnEoW6vwPz3U7QNwkpBreu+YO35aEXEhI1qUb1nLJCDCMkG2XZ4GcPYbXQThl6LQ9E1B7InKAw=="/>
+    </item>
     </channel>
 </rss>
